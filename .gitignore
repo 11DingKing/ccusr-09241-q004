@@ -9,4 +9,8 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+*.db
+*.db-journal
+*.outbox.jsonl
+outbox-delivery.jsonl
 .DS_Store
